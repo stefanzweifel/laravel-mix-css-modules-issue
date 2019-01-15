@@ -7,5 +7,5 @@ This is an example repository for [laravel-mix#1930](https://github.com/JeffreyW
 3. `yarn prod`
 4. Open `dist/index.html` in Browser
 
-5.1 `master`-Branch: CSS Modules works 🙂
-5.2 `example-mix-4`-Branch: CSS Modules doesn't work 😞
+- `master`-Branch: CSS Modules works 🙂
+- `example-mix-4`-Branch: CSS Modules doesn't work 😞
